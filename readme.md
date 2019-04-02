@@ -19,4 +19,4 @@ ionic lab
 ```
 
 ### Screen Shot of the app :
-<img src="https://imgur.com/0FMFaDl"/>
+<img src="https://i.imgur.com/0FMFaDl.png"/>
